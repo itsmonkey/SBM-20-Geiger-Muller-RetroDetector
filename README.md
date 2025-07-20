@@ -11,3 +11,5 @@ https://www.thingiverse.com/thing:6811458
 
 Enclosure thanks to:
 https://www.thingiverse.com/thing:6828940
+
+modified the screen to include original https://www.thingiverse.com/thing:5990927/files
